@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@deathabyss/wwebjs-sender": "^1.88.0",
+    "@distube/ytsr": "^1.1.9",
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "geojson": "^0.5.0",
+    "google-searcher": "^1.0.0",
+    "mathjs": "^10.5.3",
+    "mime": "^3.0.0",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.39",
+    "mongoose": "^6.7.2",
+    "node-fetch": "^3.3.0",
+    "pg": "^8.7.3",
+    "pokeapi-js-wrapper": "^1.2.2",
+    "puppeteer": "^14.1.1",
+    "qrcode-terminal": "^0.12.0",
+    "spotify-web-api-js": "^1.5.2",
+    "whatsapp-web.js": "^1.18.4",
+    "wwebjs-mongo": "^1.0.3",
+    "ytdl": "^1.4.1",
+    "ytdl-core": "^4.11.2"
+  },
+  "devDependencies": {
+    "opus-media-recorder": "^0.8.0"
+  }
+}
